@@ -1,4 +1,8 @@
 _repo: My-country-tis-of-thee-The-United-States-of-America-past-present-and-future_50036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50036-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnson, Willis Fletcher
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '36704'
     url: http://www.gutenberg.org/2009/agents/36704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50036#My-country-tis-of-thee-The-United-States-of-America-past-present-and-future
 gutenberg_issued: '2015-09-22'
 gutenberg_type: Text
 identifiers:
